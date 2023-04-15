@@ -55,6 +55,7 @@ You have to follow these steps:
    <family>Noto Emoji</family> 
   </prefer>
  </alias>
+</fontconfig>
 ```
 
 For example, in VoidLinux looks my config looks like this:
