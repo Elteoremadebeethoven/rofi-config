@@ -144,3 +144,5 @@ For example, in VoidLinux looks my config looks like this:
 ```
   
 </details>
+
+And **reboot**.
