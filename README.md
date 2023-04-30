@@ -31,8 +31,8 @@ You have to follow these steps:
 
 1. Install Noto Emoji font [here](https://github.com/googlefonts/noto-emoji)
 2. Copy the font (NotoColorEmoji.ttf) to `~/.fonts`
-3. Use `fc-cache -fv`-
-4. Change (or create) the file `~/.config/fontconfig/fonts.conf` like this:
+3. Change (or create) the file `~/.config/fontconfig/fonts.conf` like this:
+4. Run `fc-cache -fv`
 
 
 ```xml
